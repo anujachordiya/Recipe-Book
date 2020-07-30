@@ -1,3 +1,7 @@
+This is a Angular based Recipe book developed using firebase as a back-end tool.
+Here you can Add, Delete, Edit your recipes.
+Also the ingredients from the recipes can be added to the shopping list.
+
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
